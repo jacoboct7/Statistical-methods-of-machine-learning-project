@@ -20,3 +20,4 @@ Dataset: Fashion-MNIST (10 classes of clothing images)
 
 Submitted by Jacobo Cousillas – June 2025  
 
+
